@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.ed3fefa5.chunk.css",
+    "main.js": "/Portfolio/static/js/main.6262ae75.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.6262ae75.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.efb1fe8d.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.efb1fe8d.js.map",
+    "static/js/2.5b361140.chunk.js": "/Portfolio/static/js/2.5b361140.chunk.js",
+    "static/js/2.5b361140.chunk.js.map": "/Portfolio/static/js/2.5b361140.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.70c81caa2ff9f560d25e003d22708307.js": "/Portfolio/precache-manifest.70c81caa2ff9f560d25e003d22708307.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/main.ed3fefa5.chunk.css.map": "/Portfolio/static/css/main.ed3fefa5.chunk.css.map",
+    "static/js/2.5b361140.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.5b361140.chunk.js.LICENSE.txt",
+    "static/media/bakery.png": "/Portfolio/static/media/bakery.e4ea6961.png",
+    "static/media/creighbattle-clipped.png": "/Portfolio/static/media/creighbattle-clipped.5252854c.png",
+    "static/media/portitem2.jpeg": "/Portfolio/static/media/portitem2.4aa59e64.jpeg",
+    "static/media/portitem3.jpeg": "/Portfolio/static/media/portitem3.1f639e1e.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efb1fe8d.js",
+    "static/js/2.5b361140.chunk.js",
+    "static/css/main.ed3fefa5.chunk.css",
+    "static/js/main.6262ae75.chunk.js"
+  ]
+}
